@@ -20,4 +20,4 @@ Used OpenCV &amp; Machine Learning to extract a set number of colors from an ima
 * [@sadhanasharma](https://www.linkedin.com/in/sadhana-sharma-/)
 
 # License
-* [Apache License 2.0]()
+* [Apache-2.0]()
